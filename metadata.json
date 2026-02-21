@@ -1,0 +1,5 @@
+{
+  "name": "AI Workbench",
+  "description": "A versatile tool to process text inputs using Gemini AI and export structured results.",
+  "requestFramePermissions": []
+}
